@@ -5,4 +5,4 @@
 - [x] Some bugs may appears :(
 - [ ] It's not updating until I see someone report the bug(s) (and screenshot it).
 
-**Developer**: this was created, developed, and made by [Harshfeudal](https://github.com/harshfeudal).
+**Developer**: this project was created, developed, and made by [Harshfeudal](https://github.com/harshfeudal).
